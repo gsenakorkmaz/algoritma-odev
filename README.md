@@ -1,4 +1,4 @@
-# algoritma-odev
+
 
 # Algoritma Odevi Proje 1
 
